@@ -24,7 +24,7 @@
 	<!-- END -->
 </head>
 
-<body class="{bodyClass} skin-{config.bootswatchSkin}">
+<body class="debug {bodyClass} skin-{config.bootswatchSkin}">
 	<nav id="menu" class="slideout-menu hidden">
 		<div class="menu-profile">
 			<!-- IF user.uid -->
